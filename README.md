@@ -1,5 +1,6 @@
 # DBC-Research
 Looking into the different aspects of DBC, and how changing parameters may impact different types of data.
+Below are the 5 gifs of 5 different datasets, all of slowly increasing epsilon values, which decreases the required density.
 
 ![RandomCluster_Epsilon](https://github.com/user-attachments/assets/01680095-bcab-4c32-939d-222d1e674c4f)
 
@@ -11,6 +12,7 @@ Looking into the different aspects of DBC, and how changing parameters may impac
 
 ![Crescent_Epsilon](https://github.com/user-attachments/assets/e631cf72-a641-44b5-8b09-e41beb584302)
 
+Below are the 5 gifs of 5 different datasets, all of slowly increasing epsilon values, and decreasing min required points. Both of these decrease the required density, and together decrease it faster.
 ![RandomCluster_Inverse](https://github.com/user-attachments/assets/a86bad58-da0c-4f7c-b632-5e9a4d674bb8)
 
 ![Spiral_Inverse](https://github.com/user-attachments/assets/6475b4f9-b6d2-43d2-9b40-e9423cdee9c9)
@@ -21,6 +23,7 @@ Looking into the different aspects of DBC, and how changing parameters may impac
 
 ![Crescent_Inverse](https://github.com/user-attachments/assets/1eb2523a-5f99-4a41-9c6c-7cba118cf731)
 
+Below are the 5 gifs of 5 different datasets, all of slowly decreasing min required points, which decreases the required density.
 ![RandomClusters_MinPoints](https://github.com/user-attachments/assets/0209344b-73ea-4562-88fe-d2c7d1bc189d)
 
 ![Spiral_MinPoints](https://github.com/user-attachments/assets/79b63ebe-bae7-42e7-92e1-4880811e73d5)
@@ -31,6 +34,7 @@ Looking into the different aspects of DBC, and how changing parameters may impac
 
 ![Crescent_MinPoints](https://github.com/user-attachments/assets/cce0fff1-e3b5-43b8-a048-9e248227b881)
 
+Below are the 5 gifs of 5 different datasets, all of slowly increasing min required points, and epsilon values. This keeps the density constant but will still have chanign results.
 ![RandomClusters_ChangeBoth](https://github.com/user-attachments/assets/8b09ef2c-5767-4d9f-b5ac-da698156c875)
 
 ![Spiral_ChangeBoth](https://github.com/user-attachments/assets/39cf0999-eef8-406e-bb86-6050aea9c3e3)
