@@ -1,5 +1,5 @@
 # DBC-Research
-Looking into the different aspects of DBC, and how changing parameters may impact different types of data.
+Looking into the different aspects of DBC, and how changing parameters may impact different types of data.<br/>
 Below are the 5 gifs of 5 different datasets, all of slowly increasing epsilon values, which decreases the required density.
 
 ![RandomCluster_Epsilon](https://github.com/user-attachments/assets/01680095-bcab-4c32-939d-222d1e674c4f)
